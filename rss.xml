@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ASIATICA]]></title>
+        <description><![CDATA[ASIATICA]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 06 Mar 2016 05:35:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[When You're Told You Have Cancer]]></title>
+            <description><![CDATA[<article><h1>When You're Told You Have Cancer</h1><p>https://medium.com/me/stats</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a243c18ae7fe759cf87fa914e40a83bc1cbd84a9.png"></article>]]></description>
+            <link>undefinedwhen-youre-told-you-have-cancer/index.html</link>
+            <guid isPermaLink="false">0c0bebda-d01f-46e1-b75d-af284bfb8826</guid>
+            <pubDate>Sun, 06 Mar 2016 05:35:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
