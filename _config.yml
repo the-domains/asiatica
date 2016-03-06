@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.3494624
 color:
   saturation: 0.6121156
   brandStrength: 0.7921147
-  lightness: 0.9750103
+  rhythmicContrast: 0.4929321
   brandColors:
     - '#99CC99'
     - '#000000'
     - '#999966'
     - '#4D664D'
     - '#263326'
-  rhythmicContrast: 0.4929321
-typography_spectrum: 0.3189964
+  lightness: 0.9750103
 layout_spectrum: 0.1630824
 name: ASIATICA
